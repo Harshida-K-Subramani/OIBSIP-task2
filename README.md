@@ -4,6 +4,7 @@
 To design and develop a personal portfolio website using HTML and CSS to showcase personal information, skills, projects, and contact details in a structured and visually appealing manner.
 
 ## ALGORITHM
+
 1. Start the program.Create the index.
 2. html file and design the structure of the portfolio webpage.
 3. Add sections such as header, about me, skills, projects, and contact information.
