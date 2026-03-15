@@ -12,3 +12,7 @@ To design and develop a personal portfolio website using HTML and CSS to showcas
 6. Save the files and run the webpage in a browser to view the portfolio.
 
 ## OUTPUT
+![output1](output1.png)
+
+
+![output2](output2.png)
